@@ -5,10 +5,10 @@ function Contacts() {
 const [listContacts] = useState([
   {
     title: 'Phone Number',
-    value: '+84123XXX'
+    value: '+91 7404185860'
   },{
     title: 'Email',
-    value: 'hohoang.dev@gmail.com'
+    value: 'nitindevspace@gmail.com'
   },{
     title: 'Instagram',
     value: '@lundev.web'

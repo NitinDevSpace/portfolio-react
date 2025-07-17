@@ -8,7 +8,7 @@ return (
     <section ref={scrollTab} className='home'>
         <div className="content">
             <div className="name">
-                MY NAME IS <span>LUNDEV</span>
+                MY NAME IS <span>Nitin Kumar</span>
             </div>
             <div className="des">
                 {/* 30 */}
@@ -24,8 +24,8 @@ return (
                 <img src="/avatar.jpg" alt="" />
                 <div className="info">
                     <div>Developer</div>
-                    <div>VietNamese</div>
-                    <div>03/12</div>
+                    <div>Indian</div>
+                    <div>05/03</div>
                     <div>Male</div>
                 </div>
             </div>
